@@ -30,7 +30,7 @@ I am a driven developer with a passion for **Quantitative Finance** and **Fronte
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 **Languages:** Python, Java, C, SQL, JavaScript.
 **Interests:** Quantitative Finance, Data Analysis, Frontend Development (React)
 **Education:** B.Eng. Software Engineering, Minor in Mathematics (McGill University)

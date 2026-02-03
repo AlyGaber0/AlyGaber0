@@ -2,7 +2,7 @@
 
 **Sophomore Software Engineering Student & Math Minor @ McGill University**
 
-I am a driven developer with a passion for **Quantitative Finance** and **Frontend Development**. I love combining math with intuitive design to build software that solves complex problems
+I am a driven developer with a passion for **Data Science** and **Frontend Development**. I love combining math with intuitive design to build software that solves complex problems
 ---
 
 ## Featured Projects

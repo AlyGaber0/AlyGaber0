@@ -1,40 +1,48 @@
 # 👋 Hi, I'm Aly Gaber
 
-**Sophomore Software Engineering Student & Math Minor @ McGill University**
+**Software Engineering Student & Math Minor @ McGill University (Expected 2028)**
 
-I am a driven developer with a passion for **Data Science** and **Frontend Development**. I love combining math with intuitive design to build software that solves complex problems
+🌐 **[Portfolio Website](http://alygaber0.github.io/)** | 💼 **[LinkedIn](https://linkedin.com/in/aly-gaber)** | ✉️ **[Email](mailto:aly.gaber@mail.mcgill.ca)**
+
+I am a driven software engineer who builds polished, user-facing web applications and robust data pipelines. Currently working as a Software Engineer at Vexo Labs, I love combining my math background with modern frontend development to build software that solves complex problems with clean, intuitive design.
+
 ---
 
 ## Featured Projects
 
-### **Monte Carlo Blackjack Simulator**
-*A probability-based simulator combining game logic with statistical analysis.*
-- **What it does:** Simulates a standard Blackjack game but offers a strategic edge. Before every move, the engine runs **10,000 Monte Carlo simulations** based on your hand and the dealer's visible card.
-- **Key Feature:** Calculates and displays the real-time percentage probability of a **Win**, **Loss**, or **Draw** to guide the user's decision-making.
-- **Tech:** Python, Statistical Modeling.
+### **Personal Portfolio Website**
+*Modern, responsive developer portfolio with animated interactions.*
+- **What it does:** Showcases my software engineering background, professional experience, and technical projects through a highly polished user interface.
+- **Tech:** Next.js, React, Tailwind CSS, Framer Motion, Aceternity UI, Vercel.
+- **Link:** [View Live Site](https://your-website-url.com)
 
-### 🏎️ **F1 Telemetry Analysis (WIP)**
-*Data science project analyzing driver performance gaps.*
-- **What it does:** Leverages the **FastF1 API** to extract and visualize telemetry data from Formula 1 race weekends.
-- **The Goal:** An analytical walkthrough (Jupyter Notebook) determining exactly where and why drivers lose time to their teammates in identical machinery, with a specific focus on cornering speeds and braking zones.
-- **Status:** Collaborative work in progress.
+### 🏎️ **F1 Telemetry Analysis**
+*End-to-end data pipeline analyzing driver performance gaps.*
+- **What it does:** Leverages the FastF1 API to extract and visualize telemetry data from Formula 1 race weekends. 
+- **The Goal:** An analytical Jupyter Notebook determining exactly where and why drivers lose time to their teammates in identical machinery, focusing on cornering speeds and braking zones.
 - **Tech:** Python, Pandas, Matplotlib, FastF1 API.
 
-### **CheESCEManager (Model-Based Programming)**
-*A facility-management system for aging Comté cheese.*
-- **Context:** An academic project for Model-Based Programming.
-- **Functionality:** A comprehensive system for managers to configure storage shelves, track cheese wheels from intake to maturation, and schedule robot maintenance (wash/turn runs). It handles complex workflows including wholesale order fulfillment and generating status reports for farmers and wholesalers.
-- **My Contributions:**
-    - Designed and implemented the **Persistence Layer** to ensure data integrity across sessions.
-    - Collaborated on the **User Interface (UI)** to create an intuitive dashboard for facility managers.
+### **Monte Carlo Blackjack Simulator**
+*A probability-based engine combining game logic with statistical analysis.*
+- **What it does:** Simulates a standard Blackjack game but offers a strategic edge by running **10,000 Monte Carlo simulations** based on your hand and the dealer's visible card before every move.
+- **Key Feature:** Calculates the real-time percentage probability of a Win, Loss, or Draw to guide optimal decision-making.
+- **Tech:** Python, Statistical Modeling.
+
+*(Note: Also collaborated on academic projects like CheESCEManager, implementing Java persistence layers and UI for a facility-management system).*
 
 ---
 
 ## Technical Skills
-**Languages:** Python, Java, C, SQL, JavaScript.
-**Interests:** Quantitative Finance, Data Analysis, Frontend Development (React)
-**Education:** B.Eng. Software Engineering, Minor in Mathematics (McGill University)
+- **Languages:** JavaScript, HTML, CSS, Python, C, Java, SQL
+- **Frontend:** React, Next.js, Tailwind CSS, Motion
+- **Backend & Cloud:** Node.js, Flask, Google Cloud Platform (GCP), Vertex AI, REST APIs
+- **Tools:** Git, GitHub, Docker, Vercel, Linux
+
+---
+
+## Beyond the Code
+- **Finance & Operations:** Operations Analyst for McGill Engineering Students in Finance.
+- **Interests:** Frontend Development, Full-Stack Engineering, Data Science, Quantitative Finance.
 
 ---
 *Open to internships in Finance and Tech. Feel free to reach out!*
-

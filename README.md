@@ -2,7 +2,7 @@
 
 **Software Engineering Student & Math Minor @ McGill University (Expected 2028)**
 
-🌐 **[Portfolio Website](http://alygaber0.github.io/)** | 💼 **[LinkedIn](https://linkedin.com/in/aly-gaber)** | ✉️ **[Email](mailto:aly.gaber@mail.mcgill.ca)**
+🌐 **[Portfolio Website](https://alygaber-dev.vercel.app/)** | 💼 **[LinkedIn](https://linkedin.com/in/aly-gaber)** | ✉️ **[Email](mailto:aly.gaber@mail.mcgill.ca)**
 
 I am a driven software engineer who builds polished, user-facing web applications and robust data pipelines. Currently working as a Software Engineer at Vexo Labs, I love combining my math background with modern frontend development to build software that solves complex problems with clean, intuitive design.
 
@@ -13,8 +13,8 @@ I am a driven software engineer who builds polished, user-facing web application
 ### **Personal Portfolio Website**
 *Modern, responsive developer portfolio with animated interactions.*
 - **What it does:** Showcases my software engineering background, professional experience, and technical projects through a highly polished user interface.
-- **Tech:** Next.js, React, Tailwind CSS, Framer Motion, Aceternity UI, Vercel.
-- **Link:** [View Live Site](http://alygaber0.github.io/)
+- **Tech:** Next.js, React, Tailwind CSS, Framer Motion, Vercel.
+- **Link:** [View Live Site](https://alygaber-dev.vercel.app/)
 
 ### 🏎️ **F1 Telemetry Analysis**
 *End-to-end data pipeline analyzing driver performance gaps.*

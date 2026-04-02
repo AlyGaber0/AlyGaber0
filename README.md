@@ -15,7 +15,7 @@ I'm a driven software engineer who builds polished, user-facing web applications
 - **What it does:** A custom habit tracking application designed to help me stay accountable and monitor my daily routines in real-time.
 - **Why I built it:** Needed a tailored solution that matched my exact workflow and preferences, rather than generic habit apps.
 - **Tech:** Next.js, TypeScript, Tailwind CSS, PWA approach, Vercel hosting.
-- **Link:** [View on GitHub](https://github.com/alygaber/myhabits)
+- **Link:** [View on GitHub](https://dailyhabits-agaber.vercel.app/)
 
 ### **Norman Private Capital**
 *Investment startup providing data-driven models and portfolios for beginner investors and boutique firms.*
@@ -23,7 +23,7 @@ I'm a driven software engineer who builds polished, user-facing web applications
 - **What it does:** A comprehensive platform offering two core products, models and portfolios, designed to democratize quantitative investing and make professional-grade investment strategies accessible.
 - **My Role:** Co-founder, building the full-stack web application and investment infrastructure.
 - **Tech:** Next.js, React, TypeScript, Tailwind CSS, backend services for portfolio management.
-- **Link:** [View Website](https://normanpc.com)
+- **Link:** [View Website](https://normanprivatecapital.ca)
 
 ### **Personal Portfolio Website**
 *Sleek, modern portfolio showcasing my background, projects, and academic journey.*
